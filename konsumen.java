@@ -13,6 +13,7 @@ public class konsumen {
     private String nama;
     private String alamat;
     private String nohp;
+    private String alamaattt;
 
     public konsumen(String nama, String alamat, String nohp) {
         this.nama = nama;
